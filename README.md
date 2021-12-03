@@ -59,3 +59,5 @@ for the wekinator project it is important to set following settings:
 <br />
 &nbsp;&nbsp; - classes: 2 classes
 <br />
+5. open the html file and train the algorithm class by class (1st class is no objects on the track, 2nd class is objects on the track).
+6. After training the algorithm, you can just film some cases and the algorithm will play a sound whenever something is detected on the tracks.
