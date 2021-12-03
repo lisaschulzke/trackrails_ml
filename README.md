@@ -62,3 +62,8 @@ for the wekinator project it is important to set following settings:
 5. open the html file and train the algorithm class by class (1st class is no objects on the track, 2nd class is objects on the track).
 <br />
 6. After training the algorithm, you can just film some cases and the algorithm will play a sound whenever something is detected on the tracks.
+
+
+<br />
+<h4>future improvements</h4>
+As a perspective to further improve the project, it would be great to have more different classes. One could be for big objects, that indicate possible danger that will show signals like orange color within a traffic light system as well as loud sound to warn involved people in time. In addition, we could also have a warning that is less loud for objects which are in movement (birds or deers crossing the railsways for example). A last class could be for super small objects like empty cans, paper towels or similar objects that will not cause an accident as well as they do not belong to a living organism. For this group, no alarm will be triggered.
