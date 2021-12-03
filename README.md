@@ -23,7 +23,7 @@ So, whenever something is detected on the railways, there will be a warning sign
 
 <br />
 <h3>here's what you need</h3>
-<br />
+
 1. smartphone camera that is synced with your laptop and wifi connection
 <br />
 2. Wekinator + trackrails.wekproj (if you don't have the wekinator software yet,  [download it here](http://www.wekinator.org/downloads/).)
@@ -32,7 +32,7 @@ So, whenever something is detected on the railways, there will be a warning sign
 
 <br />
 <h3>step by step instruction</h3>
-<br />
+
 1. download the software if you do not have it on your computer yet.
 <br />
 2. open the two code files with the software (1 wekinator projekt and 2 processing sketches)
@@ -42,11 +42,11 @@ So, whenever something is detected on the railways, there will be a warning sign
 4. run the two sketches as well as the wekinator project. 
 for the wekinator project it is important to set following settings:
 <br />
-&nbsp; - inputs: 100 (on a resolution of 10 x 10px)
+&nbsp;&nbsp; - inputs: 100 (on a resolution of 10 x 10px)
 <br />
-&nbsp; - outputs: 1
+&nbsp;&nbsp; - outputs: 1
 <br />
-&nbsp; - type: all classifiers (default settings)
+&nbsp;&nbsp; - type: all classifiers (default settings)
 <br />
-&nbsp; - classes: 2 classes
+&nbsp;&nbsp; - classes: 2 classes
 <br />
