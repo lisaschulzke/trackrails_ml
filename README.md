@@ -34,7 +34,7 @@ So, whenever something is detected on the railways, there will be a warning sign
 3. open the html browser animation (the graphic input) and film it with the connected smartphone camera to train the algorithm
 4. run the two sketches as well as the wekinator project. 
 for the wekinator project it is important to set following settings:
-- inputs: 100 (on a resolution of 10 x 10px)
-- outputs: 1
-- type: all classifiers (default settings)
-- classes: 2 classes
+&nbsp; - inputs: 100 (on a resolution of 10 x 10px)
+&nbsp; - outputs: 1
+&nbsp; - type: all classifiers (default settings)
+&nbsp; - classes: 2 classes
