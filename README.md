@@ -22,7 +22,19 @@ We will have two different classes:
 So, whenever something is detected on the railways, there will be a warning signal to notify the train driver. For the first case, however, there will be no signal.
 
 
-# here's what you need
+## here's what you need
 1. smartphone camera that is synced with your laptop and wifi connection
 2. Wekinator + trackrails.wekproj (if you don't have the wekinator software yet,  [download it here](http://www.wekinator.org/downloads/).)
 3. Processing + alarm.pde + camera.pde (if you don't have the processing software yet, [download it here](https://processing.org/download).)
+
+
+## step by step instruction
+1. download the software if you do not have it on your computer yet.
+2. open the two code files with the software (1 wekinator projekt and 2 processing sketches)
+3. open the html browser animation (the graphic input) and film it with the connected smartphone camera to train the algorithm
+4. run the two sketches as well as the wekinator project. 
+for the wekinator project it is important to set following settings:
+- inputs: 100 (on a resolution of 10 x 10px)
+- outputs: 1
+- type: all classifiers (default settings)
+- classes: 2 classes
