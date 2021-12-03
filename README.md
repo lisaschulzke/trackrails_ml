@@ -1,2 +1,29 @@
-# trackrails_ml
-a new concept for tracking rails 👀
+# object detection on railways
+
+### relevance
+
+On average, every train driver hits at least three people during his or her career. While the victim is hurt in a more physical way, the train driver itself is emotionally hurt, too.
+
+
+### scenario
+
+Tim is a train driver and really likes his job. However, he is always afraid of unintentionally catching people on the railways.  He wishes there was a system that would warn him as soon as possible when a person, animal or other object is on the tracks.
+
+As he is about to enter a station one afternoon, the warning system strikes an alarm and notifies him on a person in the track who is rushing across the tracks to another train due to time saving. Since Tim has a very high speed and a long braking distance. Due to the length of the train, it is of great importance for him to be notified in time.
+
+
+### technical realization
+
+Our plan is to use a smartphone camera (that is synced with the laptop) to film a picture of the railways (2D) and thus creating a stop motion film with different objects like people, animals as well as other objects. Therefore, we change positions and constellations of the different objects to train the machine learing algorithm. 
+We will have two different classes:
+1. empty tracks (no objects that can be detected)
+2. people, animals and objects on the tracks
+
+So, whenever something is detected on the railways, there will be a warning signal to notify the train driver. For the first case, however, there will be no signal.
+
+
+# here's what you need
+1. smartphone camera that is synced with your laptop and wifi connection
+2. Wekinator + trackrails.wekproj (if you don't have the processing software yet, [download it here](https://processing.org/download).)
+3. Processing + alarm.pde + camera.pde (if you don't have the processing software yet, download it here.)
+4. 
