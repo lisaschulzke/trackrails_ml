@@ -24,6 +24,5 @@ So, whenever something is detected on the railways, there will be a warning sign
 
 # here's what you need
 1. smartphone camera that is synced with your laptop and wifi connection
-2. Wekinator + trackrails.wekproj (if you don't have the processing software yet, [download it here](https://processing.org/download).)
-3. Processing + alarm.pde + camera.pde (if you don't have the processing software yet, download it here.)
-4. 
+2. Wekinator + trackrails.wekproj (if you don't have the wekinator software yet,  [download it here](http://www.wekinator.org/downloads/).)
+3. Processing + alarm.pde + camera.pde (if you don't have the processing software yet, [download it here](https://processing.org/download).)
