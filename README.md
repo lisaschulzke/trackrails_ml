@@ -21,6 +21,11 @@ We will have two different classes:
 
 So, whenever something is detected on the railways, there will be a warning signal to notify the train driver. For the first case, however, there will be no signal.
 
+why have we decided on machine learning?
+
+On train stations as well as on the whole railways, there could be cameras that serve input for the machine learning algorithm. As soon as something critical is detected, a sound will notify the involved people to be able to react quickly.
+The machine learning algorithm has the benefit of detecting objects that have different size, colors, shapes and movement speed. Objects also have different criticalities, e.g. a can has a different impact than a human being or animals as well as a big object that could harm the train and its passengers.
+
 <br />
 <h3>here's what you need</h3>
 1. smartphone camera that is synced with your laptop and wifi connection
