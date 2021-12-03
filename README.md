@@ -36,9 +36,9 @@ The machine learning algorithm has the benefit of detecting objects that have di
 <h3>here's what you need</h3>
 1. smartphone camera that is synced with your laptop and wifi connection
 <br />
-2. Wekinator + trackrails.wekproj (if you don't have the wekinator software yet, <a href="http://www.wekinator.org/downloads/" target="_top">download it here</a>.
+2. Wekinator + trackrails.wekproj (if you don't have the wekinator software yet, <a href="http://www.wekinator.org/downloads/" target="_top">download it here</a>.)
 <br />
-3. Processing + alarm.pde + camera.pde (if you don't have the processing software yet, <a href="https://processing.org/download" target="_top">download it here</a>.
+3. Processing + alarm.pde + camera.pde (if you don't have the processing software yet, <a href="https://processing.org/download" target="_top">download it here</a>.)
 <br />
 <br />
 <h3>step by step instruction</h3>
