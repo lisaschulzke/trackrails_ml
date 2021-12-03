@@ -46,7 +46,7 @@ The machine learning algorithm has the benefit of detecting objects that have di
 <br />
 2. open the two code files with the software (1 wekinator projekt and 2 processing sketches)
 <br />
-3. open the html browser animation (the graphic input) and film it with the connected smartphone camera to train the algorithm
+3. open the html browser animation file TrackRailsFinal.html (the graphic input) and film it with the connected smartphone camera to train the algorithm
 <br />
 4. run the two sketches as well as the wekinator project. 
 for the wekinator project it is important to set following settings:
