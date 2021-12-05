@@ -1,6 +1,3 @@
-# trackrails_ml
-a new concept for tracking rails 👀
-
 # object detection on railways
 <br />
 <h3>relevance</h3>
