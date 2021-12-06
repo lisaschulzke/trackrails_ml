@@ -69,3 +69,4 @@ for the wekinator project it is important to set following settings:
 <br />
 <h3>future improvements</h3>
 As a perspective to further improve the project, it would be great to have more different classes. One could be for big objects, that indicate possible danger that will show signals like orange color within a traffic light system as well as loud sound to warn involved people in time. In addition, we could also have a warning that is less loud for objects which are in movement (birds or deers crossing the railsways for example). A last class could be for super small objects like empty cans, paper towels or similar objects that will not cause an accident as well as they do not belong to a living organism. For this group, no alarm will be triggered.
+Also, in a real szenario use case it is required to use a high resolution input for wekinator to see tiny differences between the states. 
