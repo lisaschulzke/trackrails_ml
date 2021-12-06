@@ -34,7 +34,7 @@ The machine learning algorithm has the benefit of detecting objects that have di
 
 <br />
 <h3>here's what you need</h3>
-1. smartphone camera that is synced with your laptop and wifi connection
+1. smartphone camera that is synced with your laptop and wifi connection (here you could use the app "NeuralCam Live" for iPhone and Mac).
 <br />
 2. Wekinator + trackrails.wekproj (if you don't have the wekinator software yet, <a href="http://www.wekinator.org/downloads/" target="_top">download it here</a>.)
 <br />
