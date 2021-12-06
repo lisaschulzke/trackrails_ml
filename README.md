@@ -61,7 +61,7 @@ for the wekinator project it is important to set following settings:
 <br />
 5. open the html file and train the algorithm class by class (1st class is no objects on the track, 2nd class is objects on the track).
 <br />
-6. After training the algorithm, you can just film some cases and the algorithm will play a sound whenever something is detected on the tracks. If you like, you can change the soundtrack to any sound you like in the OSC_SamplePlayer sketch in line 17.
+6. After training the algorithm, you can just film some cases and the algorithm will play a sound whenever something is detected on the tracks. If you like, you can change the soundtrack to any sound you like in the OSC_SamplePlayer.pde sketch in line 17.
 
 
 
