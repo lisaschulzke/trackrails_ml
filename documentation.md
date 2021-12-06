@@ -44,14 +44,14 @@ The machine learning algorithm has the benefit of detecting objects that have di
 <h3>step by step instruction</h3>
 1. download the software if you do not have it on your computer yet.
 <br />
-2. open the two code files with the software (1 wekinator projekt and 2 processing sketches)
+2. open the two files with the software (1 wekinator projekt (trackRails.wekproj) and 1 processing sketches (OSC_SamplePlayer.pde)).
 <br />
 3. open the html browser animation file TrackRailsFinal.html (the graphic input) and film it with the connected smartphone camera to train the algorithm
 <br />
 4. run the two sketches as well as the wekinator project. 
 for the wekinator project it is important to set following settings:
 <br />
-&nbsp;&nbsp; - inputs: 100 (on a resolution of 10 x 10px)
+&nbsp;&nbsp; - inputs: 10800 (on a resolution of 60 x 60px)
 <br />
 &nbsp;&nbsp; - outputs: 1
 <br />
@@ -61,7 +61,7 @@ for the wekinator project it is important to set following settings:
 <br />
 5. open the html file and train the algorithm class by class (1st class is no objects on the track, 2nd class is objects on the track).
 <br />
-6. After training the algorithm, you can just film some cases and the algorithm will play a sound whenever something is detected on the tracks.
+6. After training the algorithm, you can just film some cases and the algorithm will play a sound whenever something is detected on the tracks. If you like, you can change the soundtrack to any sound you like in the OSC_SamplePlayer sketch in line 17.
 
 
 
